@@ -3,12 +3,13 @@
 	"author": "Joey",
 	"name": "fcc-learn-npm-package-json",
 	"description": "FreeCodeCamp Back-end challenge",
-	"keywords": [ 
+	"keywords": [
 		"freecodecamp",
-		 "challenge" 
-		],
+		"challenge"
+	],
 	"dependencies": {
-		"express": "^4.18.2"
+		"express": "^4.18.2",
+		"version": "^0.1.2"
 	},
 	"main": "server.js",
 	"scripts": {
