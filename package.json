@@ -2,7 +2,10 @@
 	"author": "Joey",
 	"name": "fcc-learn-npm-package-json",
 	"description": "FreeCodeCamp Back-end challenge",
-	"keywords": [ "FreeCodeCamp", "Backend", "challenge" ],
+	"keywords": [ 
+		"FreeCodeCamp",
+		 "challenge" 
+		],
 	"dependencies": {
 		"express": "^4.18.2"
 	},
