@@ -3,7 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "FreeCodeCamp Back-end challenge",
 	"keywords": [ 
-		"FreeCodeCamp",
+		"freecodecamp",
 		 "challenge" 
 		],
 	"dependencies": {
